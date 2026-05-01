@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/DFW-PMA/VisitManagementApp/releases/download/VMA-001.31/VisitManagementApp_iOS.1.01.134.03.26C110.ipa</string>
+                <!--<string>https://github.com/DFW-PMA/VisitManagementApp/releases/download/VMA-001.30/VisitManagementApp_iOS.1.01.132.05.26C107.ipa</string> -->
+                <!--<string>https://github.com/DFW-PMA/VisitManagementApp/releases/download/VMA-001.29/VisitManagementApp_iOS.1.01.130.09.26C105.ipa</string> -->
+                <!--<string>https://github.com/DFW-PMA/VisitManagementApp/releases/download/VMA-001.28/VisitManagementApp_iOS.1.01.127.03.26C100.ipa</string> -->
+                <!--<string>https://github.com/DFW-PMA/VisitManagementApp/releases/download/VMA-001.27/VisitManagementApp_iOS.1.01.127.01.26C100.ipa</string> -->
+                <!--<string>https://github.com/DFW-PMA/VisitManagementApp/releases/download/VMA-001.25/VisitManagementApp_iOS.1.01.86.01.26C022.ipa</string> -->
+                <!--<string>https://github.com/DFW-PMA/VisitManagementApp/releases/download/VMA-001.24/VisitManagementApp_iOS.1.01.84.01.26C020.ipa</string> -->
+                <!--<string>https://github.com/DFW-PMA/VisitManagementApp/releases/download/VMA-001.1/VisitManagementApp_iOS.1.01.01.07.25C127.ipa</string> -->
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.PreferredMobileApplications.VisitManagementApp1</string>
+                <key>bundle-version</key>
+                <string>1.01</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>VisitManagementApp</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
